@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 26
-  productGUID: 57478a96612469540a18d115351fb355
+  productGUID: 40c3253e6892eba418086258be83a806
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -987,7 +987,7 @@ PlayerSettings:
   cloudProjectId: 891141e7-a157-4878-aa54-6494377cdc9e
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: CreatorKitFPSDiazP4
+  projectName: 
   organizationId: bittercrawlana
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
